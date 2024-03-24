@@ -14,5 +14,7 @@
     "sharp": "^0.33.3"
   },
   "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.3"
   }
 }

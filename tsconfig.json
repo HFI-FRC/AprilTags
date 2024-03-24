@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "esModuleInterop": true,
+        "module": "Node16",
+        "outDir": "scripts"
+    },
+    "include": [
+        "src/**/*.ts"
+    ]
+}
